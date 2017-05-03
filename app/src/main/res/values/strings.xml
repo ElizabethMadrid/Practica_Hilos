@@ -1,0 +1,11 @@
+
+<resources>
+    <string name="app_name">Buscador de Libros</string>
+    <string name="instructions">Introduzca el nombre y/o autor del libro que desea consultar:</string>
+    <string name="button_text">Buscar</string>
+    <string name="input_hint">Introduzca el título de libro</string>
+    <string name="no_search_term">Introduzca un título de búsqueda</string>
+    <string name="no_network">Compruebe la conexión de red o inténtelo de nuevo</string>
+    <string name="no_results">No se han encontrado resultados</string>
+    <string name="loading">Cargando...</string>
+</resources>
